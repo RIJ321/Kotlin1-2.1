@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin1-2.1</string>
+    <string name="et_add_data">Enter</string>
+    <string name="btn_submit">submit</string>
+    <string name="btn_random">random</string>
+    <string name="iv_for_result">for_result</string>
+    <string name="empty_text">empty_text</string>
+</resources>
